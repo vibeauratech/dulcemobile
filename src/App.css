@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;    
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+html, body{
+  background: transparent;
+}
+
+
+@font-face {
+  font-family:'ClashDisplay-Bold';
+  src: url(./Fonts/ClashDisplay_Complete/Fonts/OTF/ClashDisplay-Bold.otf);
+}
+
+@font-face {
+  font-family:'Neue-Bold';
+  src: url(./Fonts/Neue-montreal/NeueMontreal-Bold.otf);
+}
+
+@font-face {
+  font-family:'Neue-Medium';
+  src: url(./Fonts/Neue-montreal/NeueMontreal-Medium.otf);
+}
+
+@font-face {
+  font-family:'Neue-Regular';
+  src: url(./Fonts/Neue-montreal/NeueMontreal-Regular.otf);
+}
